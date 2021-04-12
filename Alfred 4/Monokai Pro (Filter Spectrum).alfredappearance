@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 2,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#FFFFFFC4",
+        "font" : "System",
+        "color" : "#FF518DFF"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#00D7E9FF"
+      },
+      "backgroundSelected" : "#F5803EFF",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#F7F0FFFF"
+      },
+      "iconPaddingHorizontal" : 10,
+      "roundness" : 3,
+      "paddingVertical" : 5,
+      "iconSize" : 32
+    },
+    "search" : {
+      "backgroundSelected" : "#2D2B2EFF",
+      "paddingHorizontal" : 8,
+      "spacing" : 10,
+      "text" : {
+        "size" : 34,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System Light",
+        "color" : "#F8F0FFFF"
+      },
+      "background" : "#18191AFF",
+      "roundness" : 3,
+      "paddingVertical" : 5
+    },
+    "window" : {
+      "color" : "#212221FF",
+      "paddingHorizontal" : 9,
+      "width" : 559,
+      "borderPadding" : 1,
+      "borderColor" : "#504D51FF",
+      "blur" : 15,
+      "roundness" : 6,
+      "paddingVertical" : 8
+    },
+    "credit" : "Marc King",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#FFE348FF",
+      "thickness" : 4
+    },
+    "name" : "Monokai Pro (Filter Spectrum)"
+  }
+}
