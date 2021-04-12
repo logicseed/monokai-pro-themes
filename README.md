@@ -10,6 +10,24 @@ The repository contains a collection of application themese based on the VS Code
 A view of VS Code with the [Monokai Pro](https://monokai.pro/) theme applied. Shown here for reference.
 ![Screen capture of a VS Code window](.assets/code.png)
 
+## Brave, Chrome, and Edge
+
+All browsers are show with New Tabs and the [Dark New Tab](https://chrome.google.com/webstore/detail/dark-new-tab/mnjmegebbljjhpljjfjmkhgmokpmdbpo) extension.
+
+### Brave
+![Screen capture of a Brave window](.assets/brave.png)
+
+### Chrome
+![Screen capture of a Brave window](.assets/chrome.png)
+
+### Edge
+![Screen capture of a Brave window](.assets/edge.png)
+
+## iTerm2
+
+Terminal Session
+![Screen capture of an iTerm2 window](.assets/iterm2.png)
+
 ## Alfred 4
 
 > Note: The light corners are a result of the screen capture software and do not appear when using the theme.
@@ -19,17 +37,6 @@ Empty Search
 
 Search with Results
 ![Screen capture of an full Alfred 4 search](.assets/alfred-full.png)
-
-
-## iTerm2
-
-Terminal Session
-![Screen capture of an iTerm2 window](.assets/iterm2.png)
-
-## Brave, Chrome, and Edge
-
-Brave
-![Screen capture of a Brave window](.assets/chromium.png)
 
 # Recommendations
 
