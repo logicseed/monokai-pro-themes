@@ -5,22 +5,43 @@
    "version": "0.0.1",
    "theme": {
       "colors": {
-         "bookmark_text": [ 255, 255, 255 ],
-         "frame": [ 0, 0, 0 ],
-         "ntp_background": [ 0, 0, 0 ],
-         "ntp_text": [ 125, 134, 142 ],
-         "tab_background_text": [ 255, 255, 255 ],
-         "tab_background_text_inactive": [ 255, 255, 255 ],
-         "tab_background_text_incognito": [ 255, 255, 255 ],
-         "tab_background_text_incognito_inactive": [ 255, 255, 255 ],
-         "tab_text": [ 255, 255, 255 ],
-         "toolbar": [ 45, 45, 45 ]
+         "frame": [ 25, 25, 25 ],
+         "frame_inactive": [ 25, 25, 25 ],
+         "frame_incognito": [ 25, 25, 25 ],
+         "frame_incognito_inactive": [ 25, 25, 25 ],
+
+         "background_tab": [ 34, 34, 34 ],
+         "background_tab_inactive": [ 34, 34, 34 ],
+         "background_tab_incognito": [ 34, 34, 34 ],
+         "background_tab_incognito_inactive": [ 34, 34, 34 ],
+
+         "bookmark_text": [ 247, 241, 255 ],
+         "button_background": [ 54, 53, 55 ],
+
+         "tab_background_text": [ 139, 136, 143 ],
+         "tab_background_text_inactive": [ 139, 136, 143 ],
+         "tab_background_text_incognito": [ 139, 136, 143 ],
+         "tab_background_text_incognito_inactive": [ 139, 136, 143 ],
+         "tab_text": [ 253, 147, 83 ],
+
+         "toolbar": [ 34, 34, 34 ],
+         "toolbar_button_icon": [ 247, 241, 255 ],
+
+         "omnibox_text": [ 247, 241, 255 ],
+         "omnibox_background": [ 54, 53, 55 ],
+
+         "ntp_background": [ 34, 34, 34 ],
+         "ntp_header": [ 247, 241, 255 ],
+         "ntp_link": [ 252, 229, 102 ],
+         "ntp_text": [ 247, 241, 255 ]
       },
       "tints": {
          "buttons": [ 0.2, 0.2, 0.9 ],
+         "frame": [ -1, -1, -1],
          "frame_inactive": [ -1, -1, -1 ],
          "frame_incognito": [ -1, -1, -1 ],
-         "frame_incognito_inactive": [ -1, -1, -1 ]
+         "frame_incognito_inactive": [ -1, -1, -1 ],
+         "background_tab": [ -1, -1, -1]
       }
    }
 }
